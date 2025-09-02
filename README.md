@@ -4,12 +4,6 @@
 
 The **Smart Traffic Light System** is designed to manage traffic efficiently across three intersections using real-time vehicle detection. This system leverages **infrared (IR) sensors** to detect vehicle presence, dynamically adjusting traffic light priorities based on traffic volume at each intersection. The goal is to minimize traffic congestion and improve traffic flow.
 
-## Team Members
-
-- EC22B1025
-- EC22B1055
-- EC22B1062
-- EC22B1064
 
 ## Features
 
